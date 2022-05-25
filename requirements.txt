@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+pygame
+time
+requests
+webbrowser
